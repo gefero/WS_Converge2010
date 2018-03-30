@@ -14,6 +14,12 @@ En este repositorio se encontrará la presentación utilizada en el evento y mat
 
 Se muestra que sin un proceso demasiado exhaustivo de tunning de los hiperparámetros del Random Forest muestra una performance notablemente superior a Hot Deck.
 
+Se dispone del siguiente material de replicación:
+
+* `code_imputation.R` código para replicar
+* `data_eph.csv` dataset proveniente de la Encuesta Permanente de Hogares (2do. semestre de 2015)
+* `WS_code_imputation.RData` Workspace con los modelos pre-entrenados.
+
 ### Dependencias
 Para correr el código será necesario tener instaladas las siguientes librerías de R
 
